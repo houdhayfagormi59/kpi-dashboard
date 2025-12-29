@@ -110,4 +110,5 @@ elif total <= 90:
 elif total <= 120:
     st.success("GOOD")
 else:
-    st.success("VERY GOOD 🔥")
+
+    st.success("VERY GOOD")
